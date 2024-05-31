@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi there! Welcome GITHUB Profile 👋
+My name is THIERES
 <!--
 **ThieresProjects/ThieresProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
