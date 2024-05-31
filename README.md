@@ -4,6 +4,7 @@ My name is THIERES
 I'm currently learning:
 
 <table>
+   <tr>
     <td style='width: 33%'>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height='100px' width='100px' /> 
           <h4>DOTNET CORE</h4>
