@@ -4,21 +4,18 @@ My name is THIERES
 I'm currently learning:
 
 <table>
+    <td style='width: 33%'>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height='100px' width='100px' /> 
+          <h4>DOTNET CORE</h4>
+    </td>
     <tr>
       <td style='width: 33%'>
-          <p><b>original</b>: the original logo. Can contain multiple colors. </p>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height='100px' width='100px' /> 
-          <h4>devicon-original.svg</h4>
+          <h4>C#</h4>
       </td>
       <td style='width: 33%'>
-          <p><b>original</b>: the original logo. Can contain multiple colors. </p>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height='100px' width='100px' /> 
-          <h4>devicon-original.svg</h4>
-      </td>
-      <td style='width: 33%'>
-          <p><b>original</b>: the original logo. Can contain multiple colors. </p>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height='100px' width='100px' /> 
-          <h4>devicon-original.svg</h4>
+          <h4>React</h4>
       </td>
     </tr>
 </table>          
