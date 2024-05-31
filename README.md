@@ -16,7 +16,19 @@ I'm currently learning:
       <td style='width: 33%'>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height='100px' width='100px' /> 
           <h4>React</h4>
+      </td> 
+      <td style='width: 33%'>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Typescript/typescript-original.svg" height='100px' width='100px' /> 
+          <h4>Typescript</h4>
       </td>
+      <td style='width: 33%'>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height='100px' width='100px' /> 
+          <h4>Javascript</h4>
+      </td>
+      <td style='width: 33%'>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height='100px' width='100px' /> 
+          <h4>Vue</h4>
+      </td>      
     </tr>
 </table>          
 <!--
