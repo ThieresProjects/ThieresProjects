@@ -5,11 +5,10 @@ I'm currently learning:
 
 <table>
    <tr>
-    <td style='width: 33%'>
+      <td style='width: 33%'>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height='100px' width='100px' /> 
           <h4>DOTNET CORE</h4>
-    </td>
-    <tr>
+      </td>    
       <td style='width: 33%'>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height='100px' width='100px' /> 
           <h4>C#</h4>
