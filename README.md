@@ -18,7 +18,7 @@ I'm currently learning:
           <h4>React</h4>
       </td> 
       <td style='width: 33%'>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Typescript/typescript-original.svg" height='100px' width='100px' /> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height='100px' width='100px' /> 
           <h4>Typescript</h4>
       </td>
       <td style='width: 33%'>
