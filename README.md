@@ -2,29 +2,22 @@
 My name is THIERES
 
 I'm currently learning:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 <table>
     <tr>
       <td style='width: 33%'>
           <p><b>original</b>: the original logo. Can contain multiple colors. </p>
-          <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg' height='100px' width='100px' /> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height='100px' width='100px' /> 
           <h4>devicon-original.svg</h4>
       </td>
-    </tr>
-    <tr>
       <td style='width: 33%'>
           <p><b>original</b>: the original logo. Can contain multiple colors. </p>
-          <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg' height='100px' width='100px' /> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height='100px' width='100px' /> 
           <h4>devicon-original.svg</h4>
       </td>
-    </tr>
-    <tr>
       <td style='width: 33%'>
           <p><b>original</b>: the original logo. Can contain multiple colors. </p>
-          <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg' height='100px' width='100px' /> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height='100px' width='100px' /> 
           <h4>devicon-original.svg</h4>
       </td>
     </tr>
