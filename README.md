@@ -1,8 +1,7 @@
 # Hi there! Welcome to my GITHUB Profile 👋
 My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information Systems
 
-I'm currently learning:
-
+<h2>I'm currently learning:</h2>
 <table>
    <tr>
       <td style='width: 33%'>
