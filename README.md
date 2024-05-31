@@ -46,6 +46,14 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height='100px' width='100px' /> 
           <h4>Nest js</h4>
       </td>         
+      <td style='width: 33%'>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height='100px' width='100px' /> 
+          <h4>GIT</h4>
+      </td>         
+      <td style='width: 33%'>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" height='100px' width='100px' /> 
+          <h4>GIT - VS Code</h4>
+      </td>         
     </tr>       
 </table>    
 
