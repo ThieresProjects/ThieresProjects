@@ -31,7 +31,7 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
           <h4>React</h4>
       </td>
       <td style='width: 33%'>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nextjs-original.svg" height='100px' width='100px' /> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height='100px' width='100px' /> 
           <h4>Next</h4>
       </td>      
       <td style='width: 33%'>
@@ -65,7 +65,7 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
           <h4>GIT - VS Code</h4>
       </td>         
       <td style='width: 33%'>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node/node-original.svg" height='100px' width='100px' /> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height='100px' width='100px' /> 
           <h4>Node</h4>
       </td>         
     </tr>       
