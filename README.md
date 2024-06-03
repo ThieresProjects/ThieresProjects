@@ -36,6 +36,10 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height='100px' width='100px' /> 
           <h4>Vue</h4>
       </td>       
+      <td style='width: 33%'>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulpjs/gulpjs-original.svg" height='100px' width='100px' /> 
+          <h4>Gulp</h4>
+      </td>       
     </tr>
     <tr>
       <td style='width: 33%'>
