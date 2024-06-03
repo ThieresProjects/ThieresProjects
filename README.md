@@ -3,9 +3,9 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 
 <h2>I'm currently learning:</h2>
 
-<div style="display:inline">
+<div style="display:inline-block">
    <div>
-      <img src="octocat-1717454813646.png"  height='300px' width='300px'/>
+      <img src="octocat-1717454813646.png"  height='200px' width='200px'/>
    </div>
    <table>
       <tr>   
