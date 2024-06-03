@@ -58,15 +58,15 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 </table>    
 
 <div>
-   <center>
-   <img src="octocat-1717454813646.png"  height='100px' width='100px'/>
-   </center>
-</div>
-
-<div>
 <a href="https://github.com/ThieresProjects">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ThieresProjects&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThieresProjects&layout=compact&langs_count=7&theme=codeSTACKr"/>
+</div>
+
+<div>
+   <center>
+   <img src="octocat-1717454813646.png"  height='400px' width='400px'/>
+   </center>
 </div>
 
 <!--
