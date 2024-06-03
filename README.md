@@ -24,6 +24,8 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height='100px' width='100px' /> 
           <h4>Java</h4>
       </td>
+   </tr>
+   <tr>
       <td style='width: 33%'>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height='100px' width='100px' /> 
           <h4>React</h4>
