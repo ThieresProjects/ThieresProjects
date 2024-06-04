@@ -3,6 +3,19 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 
 <h2>I'm currently learning:</h2>
 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none !important;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
+
 <table style="border:none"><tr style="border:none">
    <td style="border:none" valign="top" >
          <img src="https://raw.githubusercontent.com/ThieresProjects/ThieresProjects/main/octocat-1717454813646.png" width='100%'/>   
