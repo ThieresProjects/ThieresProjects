@@ -6,7 +6,7 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 <table><tr style="border:none">
    <td style="border:none">
       <div>
-         <img src="octocat-1717454813646.png"  height='200px' width='200px'/>
+         <img src="octocat-1717454813646.png"  height='150px' width='200px'/>
       </div>      
    </td>
    <td style="border:none">      
