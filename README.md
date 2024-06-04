@@ -4,10 +4,8 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 <h2>I'm currently learning:</h2>
 
 <table><tr style="border:none">
-   <td style="border:none">
-      <div>
-         <img src="octocat-1717454813646.png"  height='150px' width='200px'/>
-      </div>      
+   <td style="border:none" valign="top" >
+         <img src="https://raw.githubusercontent.com/ThieresProjects/ThieresProjects/main/octocat-1717454813646.png" width='100%'/>   
    </td>
    <td style="border:none">      
       <table>
@@ -106,3 +104,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
