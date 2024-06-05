@@ -50,7 +50,11 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
             <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" height='100px' width='100px' /> 
                 <h4>Gulp</h4>
-            </td>             
+            </td> 
+            <td style='width: 33%'>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" height='100px' width='100px' /> 
+                <h4>JQuery</h4>
+            </td>                   
           </tr>
           <tr>
             <td style='width: 33%'>
