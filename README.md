@@ -3,11 +3,7 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 
 <h2>I'm currently learning:</h2>
 
-<table><tr>
-   <td border-color="none" valign="top" >
-         <img src="https://raw.githubusercontent.com/ThieresProjects/ThieresProjects/main/octocat-1717454813646.png" width='100%'/>   
-   </td>
-   <td border-color="none">      
+ <!--<table><tr><td border-color="none" valign="top"<imgsrc="https://raw.githubusercontent.com/ThieresProjects/ThieresProjects/main/octocat-1717454813646.png"width='100%'/></td><td border-color="none">   -->    
       <table>
          <tr>   
             <td style='width: 33%' >
@@ -80,8 +76,8 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
             </td>               
           </tr>       
       </table>    
-   </td>
-</tr></table>
+   <!-- </td>
+</tr></table> -->
 </div>
 
 <div>
