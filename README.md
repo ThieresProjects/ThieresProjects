@@ -17,10 +17,10 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height='100px' width='100px' /> 
                 <h4>Python</h4>
             </td>
-            <!-- <td style='width: 33%'>
+            <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height='100px' width='100px' /> 
                 <h4>Typescript</h4>
-            </td> -->
+            </td>
             <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height='100px' width='100px' /> 
                 <h4>Javascript</h4>
@@ -64,6 +64,10 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
             <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height='100px' width='100px' /> 
                 <h4>SQL Server</h4>
+            </td>       
+            <td style='width: 33%'>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height='100px' width='100px' /> 
+                <h4>Mongo DB</h4>
             </td>       
             <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height='100px' width='100px' /> 
