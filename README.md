@@ -3,12 +3,6 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 
 <h2>I'm currently learning:</h2>
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <table><tr>
    <td border-color="none" valign="top" >
          <img src="https://raw.githubusercontent.com/ThieresProjects/ThieresProjects/main/octocat-1717454813646.png" width='100%'/>   
