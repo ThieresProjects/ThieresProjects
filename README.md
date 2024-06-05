@@ -70,7 +70,7 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
                 <h4>SQL Server</h4>
             </td>       
             <td style='width: 33%'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height='100px' width='100px' /> 
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height='100px' width='100px' /> 
                 <h4>Mongo DB</h4>
             </td>       
             <td style='width: 33%'>
