@@ -3,8 +3,7 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 
 <h2>I'm currently learning:</h2>
 
- <!--<table><tr><td border-color="none" valign="top"<imgsrc="https://raw.githubusercontent.com/ThieresProjects/ThieresProjects/main/octocat-1717454813646.png"width='100%'/></td><td border-color="none">   -->    
-      <table>
+<table>
          <tr>   
             <td style='width: 33%' >
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height='100px' width='100px' /> 
@@ -75,9 +74,8 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
                 <h4>GIT - VS Code</h4>
             </td>               
           </tr>       
-      </table>    
-   <!-- </td>
-</tr></table> -->
+</table>    
+
 </div>
 
 <div>
