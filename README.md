@@ -3,11 +3,11 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 
 <h2>I'm currently learning:</h2>
 
-<table style="border:none"><tr style="border:none">
-   <td style="border:none" valign="top" >
+<table><tr>
+   <td border-color="none" valign="top" >
          <img src="https://raw.githubusercontent.com/ThieresProjects/ThieresProjects/main/octocat-1717454813646.png" width='100%'/>   
    </td>
-   <td style="border:none">      
+   <td border-color="none">      
       <table>
          <tr>   
             <td style='width: 33%' >
