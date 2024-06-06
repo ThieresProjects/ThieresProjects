@@ -22,13 +22,13 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
                 <h4>Typescript</h4>
             </td>
             <td style='width: 33%'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height='100px' width='100px' /> 
-                <h4>Javascript</h4>
-            </td>   
-            <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height='100px' width='100px' /> 
                 <h4>Java</h4>
             </td>
+            <td style='width: 33%'>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height='100px' width='100px' /> 
+                <h4>PHP</h4>
+            </td>   
          </tr>
          <tr>
             <td style='width: 33%'>
