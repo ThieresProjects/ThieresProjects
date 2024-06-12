@@ -26,6 +26,10 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
                 <h4>Java</h4>
             </td>
             <td style='width: 33%'>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height='100px' width='100px' /> 
+                <h4>Go</h4>
+            </td>   
+            <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height='100px' width='100px' /> 
                 <h4>PHP</h4>
             </td>   
@@ -55,8 +59,16 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" height='100px' width='100px' /> 
                 <h4>JQuery</h4>
             </td>                   
+            <td style='width: 33%'>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" height='100px' width='100px' /> 
+                <h4>JQuery</h4>
+            </td>                   
           </tr>
           <tr>
+            <td style='width: 33%'>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height='100px' width='100px' /> 
+                <h4>DOCKER</h4>
+            </td>  
             <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height='100px' width='100px' /> 
                 <h4>DOTNET CORE</h4>
