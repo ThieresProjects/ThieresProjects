@@ -15,7 +15,7 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
             </td>
             <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height='100px' width='100px' /> 
-                <h4>Python</h4>
+                <h4 translate="no">Python</h4>
             </td>
             <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height='100px' width='100px' /> 
