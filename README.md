@@ -3,7 +3,7 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 
 ## <center> Skills:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=sql server,dotnet,git,github,azure,postgres,mongodb,mysql,html,css,js,ts,react,bootstrap,figma,jquery,node" />
+    <img src="https://skillicons.dev/icons?i=dotnet,git,github,azure,postgres,mongodb,mysql,html,css,js,ts,react,bootstrap,figma,jquery,node" />
 </div>
 
 ## <center> I'm currently learning:
@@ -104,9 +104,9 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
                 <h4>GIT - VS Code</h4>
             </td>               
           </tr>       
-</table>     -->
+</table>     
+</div>-->
 
-</div>
 
 <div>
 <a href="https://github.com/ThieresProjects">
