@@ -1,9 +1,15 @@
 # Hi there! Welcome to my GITHUB Profile 👋
 My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information Systems
 
-<h2>I'm currently learning:</h2>
 
-<table>
+## <center> I'm currently learning:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cshap,java,dotnet,sqlserver,docker,git,github,aws,azure,maven,postgres,mongodb,mysql,js,ts,html,css,scss,angular,rabbitmq,postman,postgres,bootstrap,figma,jquery,nodejs,angular" />
+</div>
+
+<!-- 
+<h2>I'm currently learning:</h2>
+     <table>
          <tr>   
             <td style='width: 33%' >
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height='100px' width='100px' /> 
@@ -94,7 +100,7 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
                 <h4>GIT - VS Code</h4>
             </td>               
           </tr>       
-</table>    
+</table>     -->
 
 </div>
 
