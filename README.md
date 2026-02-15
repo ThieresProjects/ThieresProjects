@@ -1,6 +1,9 @@
 # Hi there! Welcome to my GITHUB Profile 👋
 My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information Systems
 
+<img src="https://github.com/Mateus-Az/Mateus-Az/blob/main/ss.gif" width="100%"/>
+<br>
+
 <b>My GitHub Stats</b>
 <br>
 <div align="center">
