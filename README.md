@@ -5,14 +5,6 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 </div>
 <br>
 
-<b>My GitHub Stats</b>
-<br>
-<div align="center">
-
-[![GitHub Streak](https://streak-stats-jade.vercel.app?user=ThieresProjects&theme=react&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
 ## <center> Skills:
 <div align="center">    
 <img src="https://skillicons.dev/icons?i=dotnet,python,react,html,css,js,ts,jquery,vue,vite,nodejs,gulp,php,wordpress,git,github,azure,bootstrap,figma,postgres,mongodb,mysql" />
@@ -21,6 +13,14 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 ## I'm currently learning:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,maven,go,docker,kubernetes,aws,scss,nest,angular,rabbitmq" />
+</div>
+
+<b>My GitHub Stats</b>
+<br>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats-jade.vercel.app?user=ThieresProjects&theme=react&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 <!-- 
