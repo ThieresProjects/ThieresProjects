@@ -3,9 +3,11 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 
 <b>My GitHub Stats</b>
 <br>
-<!-- <div align="center"> -->
+<div align="center">
+
 [![GitHub Streak](https://streak-stats-jade.vercel.app?user=ThieresProjects&theme=react&hide_border=true)](https://git.io/streak-stats)
-<!-- </div> -->
+
+</div>
 
 ## <center> Skills:
 <div align="center">    
