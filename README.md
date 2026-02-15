@@ -4,7 +4,7 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 
 ## <center> I'm currently learning:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,dotnet,docker,git,github,aws,azure,maven,postgres,mongodb,mysql,js,ts,html,css,scss,angular,react,rabbitmq,postman,postgres,bootstrap,figma,jquery,nodejs" />
+    <img src="https://skillicons.dev/icons?i=java,dotnet,docker,git,github,aws,azure,maven,postgres,mongodb,mysql,js,ts,html,css,scss,angular,react,rabbitmq,bootstrap,figma,jquery,node,k6" />
 </div>
 
 <!-- 
