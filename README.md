@@ -1,7 +1,8 @@
 # Hi there! Welcome to my GITHUB Profile 👋
 My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information Systems
-
-<img src="https://github.com/ThieresProjects/ThieresProjects/blob/main/Contents/dandadan-gif.gif" width="100%"/>
+<div align="center">
+<img src="https://github.com/ThieresProjects/ThieresProjects/blob/main/Contents/dandadan-gif.gif" width="80%"/>
+</div>
 <br>
 
 <b>My GitHub Stats</b>
