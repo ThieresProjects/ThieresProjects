@@ -1,12 +1,14 @@
 # Hi there! Welcome to my GITHUB Profile 👋
 My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information Systems
 
+[![GitHub Streak](https://streak-stats-jade.vercel.app?user=Mateus-Az&theme=react&hide_border=true)](https://git.io/streak-stats)
+
 ## <center> Skills:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=dotnet,git,github,azure,postgres,mongodb,mysql,html,css,js,ts,react,bootstrap,figma,jquery,node" />
 </div>
 
-## <center> I'm currently learning:
+## I'm currently learning:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,maven,docker,aws,scss,angular,rabbitmq" />
 </div>
