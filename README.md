@@ -15,7 +15,7 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 
 ## <center> Skills:
 <div align="center">    
-<img src="https://skillicons.dev/icons?i=dotnet,python,react,html,css,js,ts,jquery,vue,vite,nodejs,gulp,php,wordpress,git,github,azure,bootstrap,figma,database,postgres,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=dotnet,python,react,html,css,js,ts,jquery,vue,vite,nodejs,gulp,php,wordpress,git,github,azure,bootstrap,figma,postgres,mongodb,mysql" />
 </div>
 
 ## I'm currently learning:
