@@ -14,12 +14,12 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 
 ## <center> Skills:
 <div align="center">    
-<img src="https://skillicons.dev/icons?i=dotnet,git,github,azure,postgres,mongodb,mysql,html,css,js,ts,react,bootstrap,figma,jquery,node" />
+<img src="https://skillicons.dev/icons?i=dotnet,python,react,git,github,azure,postgres,mongodb,mysql,html,css,js,ts,bootstrap,figma,jquery,node,php" />
 </div>
 
 ## I'm currently learning:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,docker,aws,scss,angular,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,go,docker,kubernetes,aws,scss,nest,angular,rabbitmq" />
 </div>
 
 <!-- 
