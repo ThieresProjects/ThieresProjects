@@ -1,8 +1,11 @@
 # Hi there! Welcome to my GITHUB Profile 👋
 My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information Systems
 
-![Metrics](/github-metrics.svg)
+<b>My GitHub Stats</b>
+<br>
+<div align="center">
 [![GitHub Streak](https://streak-stats-jade.vercel.app?user=ThieresProjects&theme=react&hide_border=true)](https://git.io/streak-stats)
+</div>
 
 ## <center> Skills:
 <div align="center">
@@ -111,7 +114,7 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 </div>-->
 
 
-<div>
+<!-- <div>
 <a href="https://github.com/ThieresProjects">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ThieresProjects&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThieresProjects&layout=compact&langs_count=7&theme=codeSTACKr"/>
@@ -119,7 +122,7 @@ My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information S
 
 <div>
 
-</div>
+</div> -->
 
 <!--
 **ThieresProjects/ThieresProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
