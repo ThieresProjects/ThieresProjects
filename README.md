@@ -1,10 +1,14 @@
 # Hi there! Welcome to my GITHUB Profile 👋
 My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information Systems
 
+## <center> Skills:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=sqlserver,dotnet,git,github,azure,postgres,mongodb,mysql,html,css,js,ts,react,bootstrap,figma,jquery,node" />
+</div>
 
 ## <center> I'm currently learning:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,dotnet,docker,git,github,aws,azure,maven,postgres,mongodb,mysql,js,ts,html,css,scss,angular,react,rabbitmq,bootstrap,figma,jquery,node,k6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,docker,aws,scss,angular,rabbitmq" />
 </div>
 
 <!-- 
