@@ -1,7 +1,7 @@
 # Hi there! Welcome to my GITHUB Profile 👋
 My name is THIERES, i'm a Full-Stack developer and i'm majoring in Information Systems
 <div align="center">
-<img src="https://github.com/ThieresProjects/ThieresProjects/blob/main/Contents/killua-gif.gif" width="80%"/>
+<img src="https://github.com/ThieresProjects/ThieresProjects/blob/main/Contents/kakashi-gif.gif" width="80%"/>
 </div>
 <br>
 
